@@ -1,1 +1,2 @@
 # python-explicit
+Bienvenidos al curso de python explicit, es un agrado brindarte una orientación diferente de programar, basada en conceptos basicos, aplicados en ejercicios de logica, más que codificar directamente. 
