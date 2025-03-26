@@ -7,7 +7,7 @@ comentarios multilinea de diferentes formas"""
 #Todas las maneras estan correctas, aunque es...
 #recomendado ser explicitos para comentar bloques
 #de codigo
-#-----------------------------------------#
+
 """Explicamos la forma de ejecutar un print
    por medio de la terminal o pulsando Run python file
    en VScode"""
@@ -53,5 +53,5 @@ print(type(None)) #Nulltype
 print(type({"rojo", "verde", "morado"})) #set
 print(type({"nombre": "carlos", "edad": "35"})) #dict
 print(type(range(10, 7, 6))) #range
-
+#--------------------------------------------------#
 '''Resumen: entonces aprendimos como realizar comentarios en nuestro codigo, luego hablamos de la sintaxis de python y por que no utiliza delimitadores de ;, (), {} ó [] y por ultimo vimos como imprimir valores de diferentes tipos y como verificar que tipos de datos estamos imprimiendo.'''
