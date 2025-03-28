@@ -55,3 +55,36 @@ print(type({"nombre": "carlos", "edad": "35"})) #dict
 print(type(range(10, 7, 6))) #range
 #--------------------------------------------------#
 '''Resumen: entonces aprendimos como realizar comentarios en nuestro codigo, luego hablamos de la sintaxis de python y por que no utiliza delimitadores de ;, (), {} ó [] y por ultimo vimos como imprimir valores de diferentes tipos y como verificar que tipos de datos estamos imprimiendo.'''
+
+#Podemos cambiar los tipos de datos, por ejemplo:
+
+#float to int
+gravity = 9.31
+print(int(gravity))
+pasamos = int(gravity)
+print(type(pasamos))
+
+#int to float
+metros = 100
+print(float(metros))
+cambiamos = float(metros)
+print(type(cambiamos))
+
+#int to str
+goles = 10
+print(goles)
+convertion = str(goles)
+print(type(convertion))
+
+#str a float
+name = 10.6
+print(float(name))
+print(type(name)) 
+cambio = float(name)
+print(type(cambio))
+
+#str to list
+first_name = 'nicole'
+print(list(first_name))
+letras = list(first_name)
+print(type(letras))
