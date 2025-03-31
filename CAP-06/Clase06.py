@@ -53,7 +53,7 @@ print(chocololate) #
 
 chocololate = tuple(chocololate)
 print(type(chocololate))
-# Por ultimo, podemos eliminar la tupla, ma´s no un elemento por lo mismo de la inmutabilidad
+# Por ultimo, podemos eliminar la tupla, más no un elemento por lo mismo de la inmutabilidad
 #del chocololate[1] Error
 del chocololate # del no es propio de lis(), tuple(), es una funcion en general
 #print(chocololate) # Nos muestra error porque la variable chocololate no esta definida
