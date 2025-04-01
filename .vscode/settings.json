@@ -1,7 +1,7 @@
 {
     "editor.tabSize": 4,
     "editor.minimap.autohide": false,
-    "files.autoSave": "onWindowChange",
+    "files.autoSave": "afterDelay",
     "workbench.auxiliaryActivityBar.location": "default",
     "workbench.externalBrowser": "'chrome'",
     "workbench.layoutControl.type": "both",
