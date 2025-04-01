@@ -75,6 +75,24 @@ print(not True)
 #XOR
 print(5 < 5 | 8 > 5)
 print(5 < 5 ^ 8 > 5)
+print("\n")
+
+"""Para que entiendas mucho mejor la logica de estos operadores, realizaremos unas tablas de verdad, en python"""
+print("A     B    ",  "A and B")
+print("True  True ",  True and True)
+print("True  False",  True and False)
+print("False True ",  False and True)
+print("False False",  False and False)
+print("\n")
+print("A     B    ",  "A or B")
+print("True  True ",  True or True)
+print("True  False",  True or False)
+print("False True ",  False or True)
+print("False False",  False or False)
+print("\n")
+print("A    ","Not")
+print("True ", not True)
+print("False", not False)
 
 #Simbologia discreta de booleanos
 
