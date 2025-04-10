@@ -1,7 +1,7 @@
 # Funciones en python
 
 """
-Las funciones en python, son bloques de codigo, reutilizables de codigo que reaizan una tarea concreta
+Las funciones en python, son bloques de codigo, reutilizables de codigo que realizan una tarea concreta
 --> la sintaxis basica de las funciones es muy limpia en python
 def nombre_funcion (parametro1, parametro2...):
  #cuerpo de la funcion 
